@@ -196,14 +196,45 @@ public class RajNandan extends SoftwareEngineer {
 </div>
 
 ---
+## 🏅 Badges & Certificates
 
-## 🏅 Holopin Badges
-
+### Holopin Badges
 <div align="center">
 
 [![An image of @rajnandan's Holopin badges](https://holopin.me/rajnandan)](https://holopin.io/@rajnandan)
 
 </div>
+
+### Certificates
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://www.skills.google/public_profiles/283de5b9-c187-4790-894d-45546f85459f/badges/16181822">
+        <img src="https://cdn.qwiklabs.com/SDzO8XLgAoTIiE4LVx7f2jzmhVexK%2F42Kef3gE27avE%3D" width="200" alt="Google Cloud Skills Badge"/>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.skills.google/public_profiles/283de5b9-c187-4790-894d-45546f85459f/badges/15435466">
+        <img src="https://cdn.qwiklabs.com/Zh524Oah%2BBH1EpgjW798TsWtdSdKZPK4oy2yOHr7O2w%3D" width="200" alt="Google Cloud Skills Badge"/>
+      </a>
+    </td>
+     <td align="center" width="250">
+      <a href="https://www.skills.google/public_profiles/283de5b9-c187-4790-894d-45546f85459f/badges/15435537">
+        <img src="https://cdn.qwiklabs.com/KaYsoCd8dLVp8qCZOr2DmxmFVcGst4XlXaqoOdc2tZM%3D" width="200" alt="Google Cloud Skills Badge"/>
+      </a>
+    </td>
+     <td align="center" width="250">
+      <a href="https://www.skills.google/public_profiles/283de5b9-c187-4790-894d-45546f85459f/badges/15434927">
+        <img src="https://cdn.qwiklabs.com/brAoVLiwzMQMOWWGtKQ5fz3GFuq6xlfOakYaWWC4qn4%3D" width="200" alt="Google Cloud Skills Badge"/>
+      </a>
+    </td>
+     <td align="center" width="250">
+      <a href="https://www.skills.google/public_profiles/283de5b9-c187-4790-894d-45546f85459f/badges/15359534">
+        <img src="https://cdn.qwiklabs.com/8iA%2FBWFj7loyL8niR2pp5F%2BR04%2B3iB5r6w2oEvt9W4Q%3D" width="200" alt="Google Cloud Skills Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
